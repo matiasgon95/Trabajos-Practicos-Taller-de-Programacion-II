@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4EB67F-3A10-49A5-95EB-077DC0373595}|Practico4\\Practico4.csproj|c:\\users\\matia\\documents\\licenciatura en sistemas\\3\u00B0 a\u00F1o\\taller de programaci\u00F3n ii\\tps\\practico4\\practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4EB67F-3A10-49A5-95EB-077DC0373595}|Practico4\\Practico4.csproj|solutionrelative:practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4EB67F-3A10-49A5-95EB-077DC0373595}|Practico4\\Practico4.csproj|C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A4EB67F-3A10-49A5-95EB-077DC0373595}|Practico4\\Practico4.csproj|solutionrelative:practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4EB67F-3A10-49A5-95EB-077DC0373595}|Practico4\\Practico4.csproj|C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\practico4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4EB67F-3A10-49A5-95EB-077DC0373595}|Practico4\\Practico4.csproj|solutionrelative:practico4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4EB67F-3A10-49A5-95EB-077DC0373595}|Practico4\\Practico4.csproj|c:\\users\\matia\\documents\\licenciatura en sistemas\\3\u00B0 a\u00F1o\\taller de programaci\u00F3n ii\\tps\\practico4\\practico4\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{1A4EB67F-3A10-49A5-95EB-077DC0373595}|Practico4\\Practico4.csproj|solutionrelative:practico4\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\Practico4\\Form1.cs",
+              "RelativeDocumentMoniker": "Practico4\\Form1.cs",
+              "ToolTip": "C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\Practico4\\Form1.cs",
+              "RelativeToolTip": "Practico4\\Form1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:23:59.56Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\Practico4\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Practico4\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\Practico4\\Properties\\Resources.resx",
+              "RelativeToolTip": "Practico4\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-18T01:49:39.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\Practico4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Practico4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\Practico4\\Form1.Designer.cs",
+              "RelativeToolTip": "Practico4\\Form1.Designer.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAMwKcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:26:16.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\Practico4\\Form1.cs",
+              "RelativeDocumentMoniker": "Practico4\\Form1.cs",
+              "ToolTip": "C:\\Users\\matia\\Documents\\Licenciatura en Sistemas\\3\u00B0 a\u00F1o\\Taller de Programaci\u00F3n II\\TPS\\Practico4\\Practico4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practico4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:50:29.857Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

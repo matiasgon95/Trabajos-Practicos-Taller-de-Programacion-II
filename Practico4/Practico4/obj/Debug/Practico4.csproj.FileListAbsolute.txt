@@ -1,0 +1,11 @@
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\bin\Debug\Practico4.exe
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\bin\Debug\Practico4.pdb
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\obj\Debug\Practico4.csproj.AssemblyReference.cache
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\obj\Debug\Practico4.Form1.resources
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\obj\Debug\Practico4.Properties.Resources.resources
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\obj\Debug\Practico4.csproj.GenerateResource.cache
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\obj\Debug\Practico4.csproj.CoreCompileInputs.cache
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\obj\Debug\Practico4.exe
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\obj\Debug\Practico4.pdb
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico4\Practico4\obj\Debug\Practico4.exe.config

@@ -1,0 +1,11 @@
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\bin\Debug\Practico1.exe.config
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\bin\Debug\Practico1.exe
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\bin\Debug\Practico1.pdb
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\obj\Debug\Practico1.csproj.AssemblyReference.cache
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\obj\Debug\Practico1.Form1.resources
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\obj\Debug\Practico1.Properties.Resources.resources
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\obj\Debug\Practico1.csproj.GenerateResource.cache
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\obj\Debug\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\obj\Debug\Practico1.exe
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\obj\Debug\Practico1.pdb
+C:\Users\matia\Documents\Licenciatura en Sistemas\3° año\Taller de Programación II\TPS\Practico1\Practico1\obj\Debug\Practico1.exe.config
